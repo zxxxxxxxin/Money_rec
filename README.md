@@ -1,7 +1,7 @@
 # 人民币识别
 TinyMind人民币面值&amp;冠字号编码识别挑战赛  
-'主要源于 https://github.com/Flyfoxs/ty_m'  
-'比赛数据地址：https://www.tinymind.cn/competitions/47#property_62'  
+`主要源于 https://github.com/Flyfoxs/ty_m`  
+`比赛数据地址：https://www.tinymind.cn/competitions/47#property_62`  
 ## 必要安装:
 requirement..txt  
 pip uninstall keras-preprocessing  
